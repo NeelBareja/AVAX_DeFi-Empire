@@ -34,7 +34,7 @@ Follow these steps to set up the DeFi Empire environment:
 
    `avalanche subnet deploy buzz`
 
-###Configure Metamask:
+### Configure Metamask:
 
 Add network details to Metamask for seamless integration.
 Deploy ERC20 and Vault Contracts using Remix:
@@ -47,6 +47,6 @@ Ensure the proper functionality of deployed contracts.
 
 Author: 
 
--Neel Bareja
+- Neel Bareja
 
 Github : https://github.com/NeelBareja/AVAX_DeFi-Empire.git
